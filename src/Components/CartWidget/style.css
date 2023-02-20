@@ -1,0 +1,23 @@
+.contenedorCarrito{
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.carrito{
+    display: flex;
+    position: relative;
+    height: 40px;
+}
+
+.numCarrito{
+    display: flex;
+    position: absolute;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    color: white;
+}

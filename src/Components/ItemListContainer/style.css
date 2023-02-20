@@ -1,0 +1,15 @@
+.contenedorTexto{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.titulo{
+    font-size: 60px;
+}
+
+.subtitulo{
+    font-size: 45px;
+    color: gray;
+}
